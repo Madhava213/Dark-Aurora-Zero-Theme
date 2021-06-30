@@ -1,0 +1,21 @@
+{
+    "name": "dark-aurora-zero",
+    "displayName": "Dark Aurora Zero",
+    "description": "A clean and elegant Dark Theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Aurora Zero",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Night Zero-color-theme.json"
+            }
+        ]
+    }
+}
