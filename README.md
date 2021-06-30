@@ -1,6 +1,6 @@
 <h1 style="color: #ffff" align = "center">Dark Night Zero</h1>
 <p align = "center">
-<img  src="https://raw.githubusercontent.com/Madhava213/Dark-Aurora-Zero-Theme/main/Dark%20banner.jpg" alt="Dark Night Zero Banner"/>
+<img  src="https://github.com/Madhava213/Dark-Aurora-Zero-Theme/blob/main/Dark_banner.jpg?raw=true" alt="Dark Night Zero Banner"/>
 </p>
 
 A clean and elegant Dark Theme for all of you VS Code enthusiasts. Thank you for checking out my theme.
