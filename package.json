@@ -6,7 +6,7 @@
     "engines": {
         "vscode": "^1.50.0"
     },
-    "publisher": "Synipher Tech",
+    "publisher": "Synipher-Tech",
     "author": {
         "name": "Madhava Raveendra"
     },
@@ -17,7 +17,7 @@
     "bugs": {
         "url": "https://github.com/Madhava213/Dark-Aurora-Zero-Theme/issues"
     },
-    "icon": "./Dark Aurora Zero.png",
+    "icon": "Dark_Aurora_Zero.png",
     "categories": [
         "Themes"
     ],
