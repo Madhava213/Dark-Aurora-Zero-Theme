@@ -56,7 +56,7 @@
         "scrollbarSlider.activeBackground": "#0280905e",
         "scrollbarSlider.hoverBackground": "#0280902d",
         "focusBorder": "#028090ce",
-        "terminal.ansiBrightYellow": "",
+        "terminal.ansiBrightYellow": "#FEC601",
         "button.background": "#02809060",
         "notifications.background": "#1e222e",
         "list.hoverBackground": "#1e283a",
@@ -197,6 +197,7 @@
             "scope": [
                 "support.constant",
                 "support.type.object",
+                "support.type.python",
                 "support.class"
             ],
             "settings": {

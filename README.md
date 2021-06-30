@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "dark-night-zero"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h1 style="color: #ffff" align = "center">Dark Night Zero</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<!-- ![Banner](Dark banner.jpg) -->
+
+A clean and elegant Dark Theme for all of you VS Code enthusiasts. Thank you for checking out my theme.
+
+<h2 style="color: #028090">Installation :</h2>
+
+1. Open the extension bar on VS Code
+2. Search for **_Dark Night Zero Theme_**
+3. Click _Install_
+4. Reload your editor
+ <h2 style="color: #028090">Activate Theme :</h2>
+
+Launch Quick Open:
+
+-   **Linux** : Ctrl + Shift + P
+-   **macOS** : ⌘ + Shift + P
+-   **Windows** : Ctrl + Shift + P
+
+    Type '**theme**', choose '**Preferences: Color Theme**', and choose **_Dark Night Zero_**
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**

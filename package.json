@@ -6,8 +6,31 @@
     "engines": {
         "vscode": "^1.50.0"
     },
+    "publisher": "Synipher Tech",
+    "author": {
+        "name": "Madhava Raveendra"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Madhava213/Dark-Aurora-Zero-Theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Madhava213/Dark-Aurora-Zero-Theme/issues"
+    },
+    "icon": "./Dark Aurora Zero.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Dark",
+        "Dark Theme",
+        "VSCode Theme",
+        "Blue",
+        "Aurora",
+        "Dark Aurora",
+        "Aurora Theme",
+        "Color",
+        "Color Theme"
     ],
     "contributes": {
         "themes": [
