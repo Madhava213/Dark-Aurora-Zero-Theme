@@ -346,7 +346,7 @@
             "name": "CSS Classes",
             "scope": ["entity.other.attribute-name.class"],
             "settings": {
-                "foreground": "#f0bc00d8"
+                "foreground": "#dd4254"
             }
         },
         {
